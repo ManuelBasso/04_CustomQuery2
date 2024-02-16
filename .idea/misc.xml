@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01Custom-query/pom.xml" />
+        <option value="$PROJECT_DIR$/02Custom-query/pom.xml" />
+        <option value="$PROJECT_DIR$/04Custom-query/pom.xml" />
       </list>
     </option>
   </component>

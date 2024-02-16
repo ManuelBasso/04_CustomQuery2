@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01Custom-query/01Custom-query.iml" filepath="$PROJECT_DIR$/01Custom-query/01Custom-query.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/03_CustomQuery1.iml" filepath="$PROJECT_DIR$/.idea/03_CustomQuery1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Custom-query/01Custom-query.iml" filepath="$PROJECT_DIR$/04Custom-query/01Custom-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Custom-query/04Custom-query.iml" filepath="$PROJECT_DIR$/01Custom-query/04Custom-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/04_CustomQuery2.iml" filepath="$PROJECT_DIR$/.idea/04_CustomQuery2.iml" />
     </modules>
   </component>
 </project>
